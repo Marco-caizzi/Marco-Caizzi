@@ -1,16 +1,21 @@
-### Hi there 👋
+# Biografía
 
-<!--
-**Marco-caizzi/Marco-Caizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Marco Caizzi, QA Engineer en Uala, apasionado por la automatización de pruebas y el aseguramiento de la calidad en el desarrollo de software.
 
-Here are some ideas to get you started:
+## Conocimientos y Experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automatización de pruebas web y aplicaciones móviles utilizando Python.
+- Desarrollo de aplicaciones móviles en Android e iOS con lenguajes como Kotlin y Flutter.
+- Experiencia en desarrollo backend con Node.js y Golang.
+
+## Objetivos
+
+Mi objetivo principal es continuar creciendo profesionalmente, enfrentando desafíos que me permitan expandir mis habilidades y conocimientos en el campo de la calidad de software y el desarrollo de aplicaciones. Siempre estoy abierto a nuevas oportunidades y colaboraciones emocionantes en proyectos innovadores.
+
+## Contacto
+
+¡Si estás interesado en colaborar o conocer más sobre mi trabajo, no dudes en contactarme! Puedes encontrarme en marcocaizzi@hotmail.com o visitar mi perfil de [[LinkedIn](https://www.linkedin.com/in/marcocaizzi95/)].
+
+¡Espero tener la oportunidad de trabajar contigo en el futuro!
+
+
