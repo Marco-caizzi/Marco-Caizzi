@@ -5,7 +5,10 @@
 ## Conocimientos y Experiencia
 
 - Automatización de pruebas web y aplicaciones móviles utilizando Python.
-- Desarrollo de aplicaciones móviles en Android e iOS con lenguajes como Kotlin y Flutter.
+
+## Conocimientos(Basicos)
+- Desarrollo de aplicaciones móviles para Android en Kotlin o Flutter.
+- Desarrollo de aplicaciones móviles para IOS en Flutter.
 - Experiencia en desarrollo backend con Node.js y Golang.
 
 ## Objetivos
